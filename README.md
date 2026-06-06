@@ -71,6 +71,6 @@ Repository:
 
 
 ## Goal
-To build strong programming skills and become industry-ready in AI, Machine Learning, and Software Development.
+
 
 To build strong programming skills and become industry-ready in AI, Machine Learning, and Software Development.
