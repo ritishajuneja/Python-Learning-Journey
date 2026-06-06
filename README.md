@@ -20,7 +20,8 @@ This repository documents my Python learning journey, projects, and progress as 
 A cafe billing and ordering system.
 
 Repository:
-https://github.com/YOUR_USERNAME/Rishus-Bistro
+https://ritishajuneja26.wixsite.com/rishu
+https://github.com/ritishajuneja/python-cafe-management-system
 
 ---
 
@@ -28,7 +29,7 @@ https://github.com/YOUR_USERNAME/Rishus-Bistro
 A number guessing game with hints and attempt tracking.
 
 Repository:
-https://github.com/YOUR_USERNAME/Guess-The-Number
+https://github.com/ritishajuneja/guess-the-evil-number
 
 ---
 
@@ -36,7 +37,7 @@ https://github.com/YOUR_USERNAME/Guess-The-Number
 A simple banking simulation with deposit, withdrawal, and balance checking.
 
 Repository:
-https://github.com/YOUR_USERNAME/ATM-Simulator
+https://github.com/ritishajuneja/Python-ATM-Simulation
 
 ---
 
@@ -44,7 +45,7 @@ https://github.com/YOUR_USERNAME/ATM-Simulator
 A diary application that stores entries using file handling.
 
 Repository:
-https://github.com/YOUR_USERNAME/Digital-Diary
+https://github.com/ritishajuneja/Rishu-s-Digital-Diary
 
 ---
 
@@ -52,7 +53,7 @@ https://github.com/YOUR_USERNAME/Digital-Diary
 A genre-based book recommendation system built using OOP and file handling.
 
 Repository:
-https://github.com/YOUR_USERNAME/Book-Recommendation-System
+https://github.com/ritishajuneja/Book-Recommendation-System-Python
 
 ---
 
@@ -60,15 +61,16 @@ https://github.com/YOUR_USERNAME/Book-Recommendation-System
 A password management system using Python and text file storage.
 
 Repository:
-https://github.com/YOUR_USERNAME/Password-Vault-Python
+https://github.com/ritishajuneja/Password-Vault-Python
 
 ### 🎵 Music Playlist Manager
 
 A Python application to create, view, and search songs in a playlist.
 
 Repository:
-https://github.com/YOUR_USERNAME/Music-Playlist-Manager
+
 
 ## Goal
+To build strong programming skills and become industry-ready in AI, Machine Learning, and Software Development.
 
 To build strong programming skills and become industry-ready in AI, Machine Learning, and Software Development.
