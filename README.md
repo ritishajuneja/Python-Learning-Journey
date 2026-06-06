@@ -68,7 +68,7 @@ https://github.com/ritishajuneja/Password-Vault-Python
 A Python application to create, view, and search songs in a playlist.
 
 Repository:
-
+https://github.com/ritishajuneja/Music-Playlist-Manager
 
 ## Goal
 
